@@ -35,7 +35,4 @@ print("==============")
 print(response2)
 
 
-
-
-
 # LangChain (and the Google Generative AI wrapper) does NOT support TypedDict for structured output.
