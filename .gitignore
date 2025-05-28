@@ -1,0 +1,10 @@
+# Ignore virtual environment
+venv/
+
+# Ignore environment variables
+.env
+
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+*.log

@@ -1,0 +1,17 @@
+{
+    "name": null,
+    "input_variables": [
+        "length_input",
+        "style_input",
+        "user_input"
+    ],
+    "optional_variables": [],
+    "output_parser": null,
+    "partial_variables": {},
+    "metadata": null,
+    "tags": null,
+    "template": "Summarize the research paper titled {user_input} in a {style_input} tone, with a length of approximately {length_input} words. The summary should cover the main objective of the study, the methodology or experimental setup, and highlight any important mathematical models, equations, or formulations, explaining them briefly where appropriate. It should also include the key results and findings, along with the conclusion or broader implications of the work. Ensure that both the technical and mathematical aspects are clearly conveyed in a way that aligns with the chosen tone and summary length.",
+    "template_format": "f-string",
+    "validate_template": true,
+    "_type": "prompt"
+}

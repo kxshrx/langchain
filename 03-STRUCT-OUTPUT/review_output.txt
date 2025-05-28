@@ -1,0 +1,36 @@
+{"id":null,"user":"Anonymous","keythemes":["great support","fast delivery","user-friendly design"],"summary":"The customer support was incredibly responsive and my order arrived two days early. The interface is intuitive.","sentiment":"positive","pros":"quick assistance, early delivery, and an easy-to-use layout","cons":null}
+
+
+
+{"id":null,"user":"Anonymous","keythemes":["average performance","okay battery life","minimal ongoing support"],"summary":"The product functions adequately, with average performance and acceptable battery life. However, the lack of software updates raises concerns.","sentiment":"netural","pros":"okay battery life","cons":"lack of software updates"}
+
+
+
+{"id":null,"user":"Anonymous","keythemes":["poor durability","unjustified cost","bad service"],"summary":"The device started showing issues within a week. It’s overpriced and customer service was unresponsive.","sentiment":"negative","pros":null,"cons":"weak build, expensive for its value, no help when I reached out"}
+
+
+
+{"id":3567830,"user":"Kishore","keythemes":["great support","fast delivery","user-friendly design"],"summary":"The customer support was incredibly responsive, and my order arrived two days early. The interface is intuitive, even for someone like me who's not very tech-savvy.","sentiment":"positive","pros":"quick assistance, early delivery, and an easy-to-use layout","cons":null}
+
+
+
+{"id":null,"user":"Anonymous","keythemes":["average performance","okay battery life","minimal ongoing support"],"summary":"The product functions adequately, with average performance and acceptable battery life. However, the lack of software updates raises concerns.","sentiment":"netural","pros":"okay battery life","cons":"lack of software updates"}
+
+
+
+{"id":null,"user":"Anonymous","keythemes":["poor durability","unjustified cost","bad service"],"summary":"The device started showing issues within a week, overpriced, and customer service was unresponsive.","sentiment":"negative","pros":null,"cons":"weak build, expensive for its value, no help when I reached out"}
+
+
+
+{"id":3567830,"user":"Kishore","keythemes":["great support","fast delivery","user-friendly design"],"summary":"Impressed with customer support, early delivery, and intuitive interface.","sentiment":"positive","pros":"quick assistance, early delivery, and an easy-to-use layout","cons":null}
+
+
+
+{"id":null,"user":"Anonymous","keythemes":["average performance","okay battery life","minimal ongoing support"],"summary":"The product functions adequately, with acceptable battery life, but lacks outstanding features and receives infrequent software updates. The overall experience is neutral, without strong positive or negative aspects.","sentiment":"netural","pros":"None","cons":"lack of software updates"}
+
+
+
+{"id":null,"user":"Anonymous","keythemes":["poor durability","unjustified cost","bad service"],"summary":"The device showed issues within a week, overpriced, and unresponsive customer service.","sentiment":"negative","pros":null,"cons":"weak build, expensive for its value, no help when I reached out"}
+
+
+
