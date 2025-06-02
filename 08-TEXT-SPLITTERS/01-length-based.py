@@ -15,4 +15,4 @@ result = splitter.split_documents(docs)
 
 print(result[1].page_content)
 
-# should try out all these
+#  try out all these
