@@ -9,5 +9,3 @@ __pycache__/
 *.py[cod]
 *.log
 
-# ignore gitignore files
-.gitignore
