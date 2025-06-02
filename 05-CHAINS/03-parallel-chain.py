@@ -43,6 +43,10 @@ response = chain.invoke({'topic':'thermodynamics'})
 
 print(response)
 
+chain.get_graph().print_ascii()
+
+
+
 
 
 
@@ -118,3 +122,56 @@ print(response)
 # (e) The expansion of a gas in a vacuum (free expansion).
 
 # **Correct Answers: (a), (b), (c), (e)**
+
+
+#                     +---------------------------+                      
+#                     | Parallel<notes,quiz>Input |                      
+#                     +---------------------------+                      
+#                        ***                   ***                       
+#                    ****                         ****                   
+#                  **                                 **                 
+#     +----------------+                          +----------------+     
+#     | PromptTemplate |                          | PromptTemplate |     
+#     +----------------+                          +----------------+     
+#              *                                           *             
+#              *                                           *             
+#              *                                           *             
+# +------------------------+                  +------------------------+ 
+# | ChatGoogleGenerativeAI |                  | ChatGoogleGenerativeAI | 
+# +------------------------+                  +------------------------+ 
+#              *                                           *             
+#              *                                           *             
+#              *                                           *             
+#     +-----------------+                         +-----------------+    
+#     | StrOutputParser |                         | StrOutputParser |    
+#     +-----------------+                         +-----------------+    
+#                        ***                   ***                       
+#                           ****           ****                          
+#                               **       **                              
+#                     +----------------------------+                     
+#                     | Parallel<notes,quiz>Output |                     
+#                     +----------------------------+                     
+#                                    *                                   
+#                                    *                                   
+#                                    *                                   
+#                           +----------------+                           
+#                           | PromptTemplate |                           
+#                           +----------------+                           
+#                                    *                                   
+#                                    *                                   
+#                                    *                                   
+#                       +------------------------+                       
+#                       | ChatGoogleGenerativeAI |                       
+#                       +------------------------+                       
+#                                    *                                   
+#                                    *                                   
+#                                    *                                   
+#                           +-----------------+                          
+#                           | StrOutputParser |                          
+#                           +-----------------+                          
+#                                    *                                   
+#                                    *                                   
+#                                    *                                   
+#                       +-----------------------+                        
+#                       | StrOutputParserOutput |                        
+#                       +-----------------------+    

@@ -1,0 +1,21 @@
+from langchain_community.document_loaders import PyPDFLoader
+
+loader = PyPDFLoader('dl-curriculum.pdf')
+
+docs = loader.load()
+
+print(len(docs))
+
+print(docs[0].page_content)
+print(docs[1].metadata)
+
+
+
+# types:
+
+# pdplumberloader
+# unstructruedpdfloader / amazontextractpdfloader
+# pymupdfloader
+# unstrcuturedpdfloader
+
+# https://python.langchain.com/docs/concepts/document_loaders/
