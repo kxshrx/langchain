@@ -1,12 +1,27 @@
-# Ignore virtual environment
+# Ignore virtual environments
 venv/
+.env/
 
-# Ignore environment variables
-.env
-
-# Byte-compiled / cache
+# Python bytecode and cache
 __pycache__/
 *.py[cod]
+*.pyo
+*.pyd
+
+# Log files
 *.log
 
-.DS_STORE
+# macOS system file
+.DS_Store
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# VS Code settings (optional, if using VS Code)
+.vscode/
+
+# Coverage, test, and build artifacts (optional)
+.coverage
+*.egg-info/
+dist/
+build/
